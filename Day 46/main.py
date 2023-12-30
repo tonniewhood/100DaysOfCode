@@ -7,9 +7,9 @@ import os
 import base64
 
 URL = "https://www.billboard.com/charts/hot-100/"
-SPOTIFY_CLIENT_ID = "fcc6e6be82044f41ae0383d877009cb7"
-SPOTIFY_API_KEY = "7d2eb10752f443b79e60ce3d22c6d866"
-AUTH_CODE = "ZnIJUcYHeg93"
+SPOTIFY_CLIENT_ID = "" 
+SPOTIFY_API_KEY = ""
+
 
 def main():
 

@@ -10,7 +10,7 @@ class FlightSearch:
     CODES_ENDPOINT = "https://api.tequila.kiwi.com/locations/query"
     SEARCH_ENDPOINT = "https://api.tequila.kiwi.com/v2/search"
     header = {
-        "apikey" : "CNDafVjoxtBHuB1pQ84PmHjP6_jqQYDv",
+        "apikey" : "",
         "Content-Type": "application/json",
     }
 

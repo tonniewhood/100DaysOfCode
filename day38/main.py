@@ -2,8 +2,8 @@
 import requests
 from datetime import datetime
 
-NUTRITIONIX_APP_ID = "bf5beeec"
-NUTRITIONIX_API_KEY = "19de20033bc085da41c8c0d0425e9a01"
+NUTRITIONIX_APP_ID = ""
+NUTRITIONIX_API_KEY = ""
 NUTRITIONIX_EXERCISE_ENDPOINT = "https://trackapi.nutritionix.com/v2/natural/exercise"
 
 nutritionix_headers = {
@@ -35,7 +35,7 @@ calories = response["nf_calories"]
 # print(f"{date:12s}|{time:12s}|{exercise:20s}|{duration:<15d}|{calories:<5d}")
 
 SHEETY_ENDPOINT = "https://api.sheety.co/cfda42ddc48a36a5363894b4f599c821/myWorkoutsTony/workouts"
-SHEETY_AUTH_TOKEN = "Ry73utOtmPWA7t9ksp6seYcvCexhXmiD"
+SHEETY_AUTH_TOKEN = ""
 
 sheety_header = {
     "Authorization": f"Bearer {SHEETY_AUTH_TOKEN}",

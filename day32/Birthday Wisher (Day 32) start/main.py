@@ -5,7 +5,7 @@ import random
 import pandas
 
 SENDER_EMAIL = "test4python15@gmail.com"
-SENDER_PASS = "latp nfuk dhry teqc"
+SENDER_PASS = ""
 
 # Read in the birthday csv
 birthdays = pandas.read_csv("Birthdays.csv")
