@@ -4,10 +4,10 @@ from twilio.rest import Client
 class NotificationManager:
     # This class is responsible for sending notifications with the deal flight details.
 
-    ACCOUNT_SID = "AC19925e84d597cfe3dada5d5e99bdde71"
-    AUTH_TOKEN = "6e2cdf2168dbd97f3b5c53f3ad43580c"
-    TWILIO_NUMBER = "+18446697262"
-    PERSONAL_NUMBER = "+18016828811"
+    ACCOUNT_SID = "" # Enter Info Here and Below
+    AUTH_TOKEN = ""
+    TWILIO_NUMBER = ""
+    PERSONAL_NUMBER = ""
 
     def __init__(self):
         self.client = Client(self.ACCOUNT_SID, self.AUTH_TOKEN)
