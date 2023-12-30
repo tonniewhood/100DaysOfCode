@@ -1,0 +1,43 @@
+"EventType","InsertText","DeleteText","SourceLocation","ClientTimestamp","CodeStateSection","ToolInstances","EditType","X-Metadata","CodeStateID","X-Compilable","EventID","SubjectID","AssignmentID"
+"Run.Program","3","C:\Users\Tony\AppData\Local\Programs\Python\Python311\python.exe C:/Users/Tony/OneDrive/Desktop/100DaysOfCode/Day9_Silent_Auction.py ",,"PythonRunner",,"1693374531442","Day9_Silent_Auction.py",,,,,,
+"o","3",,"Now please input your bid: ",,"stdout","1693374534400",,,,,,,
+"o","3",,"Is there anyone else bidding [Y/N]? ",,"stdout","1693374536565",,,,,,,
+"o","3",,"Enter the name of the bidder: ",,"stdout","1693374537916",,,,,,,
+"o","3",,"'clear' is not recognized as an internal or external command,
+",,"stderr","1693374537916",,,,,,,
+"o","3",,"operable program or batch file.
+",,"stderr","1693374537916",,,,,,,
+"o","3",,"Traceback (most recent call last):
+",,"stderr","1693374557613",,,,,,,
+"o","3",,"  File ""C:\Users\Tony\OneDrive\Desktop\100DaysOfCode\Day9_Silent_Auction.py"", line 26, in <module>
+",,"stderr","1693374557613",,,,,,,
+"o","3",,"    name = input('Enter the name of the bidder: ')
+",,"stderr","1693374557613",,,,,,,
+"o","3",,"           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+",,"stderr","1693374557613",,,,,,,
+"o","3",,"  File ""<frozen codecs>"", line 319, in decode
+",,"stderr","1693374557613",,,,,,,
+"o","3",,"KeyboardInterrupt
+",,"stderr","1693374557613",,,,,,,
+"o","3",,"
+Process finished with exit code -1073741510 (0xC000013A: interrupted by Ctrl+C)
+",,"system","1693374557613",,,,,,,
+"Run.Program","4","C:\Users\Tony\AppData\Local\Programs\Python\Python311\python.exe C:/Users/Tony/OneDrive/Desktop/100DaysOfCode/Day9_Silent_Auction.py ",,"PythonRunner",,"1693374557727","Day9_Silent_Auction.py",,,,,,
+"o","4",,"Now please input your bid: ",,"stdout","1693374562025",,,,,,,
+"o","4",,"Is there anyone else bidding [Y/N]? ",,"stdout","1693374563401",,,,,,,
+"o","4",,"Enter the name of the bidder: ",,"stdout","1693374564790",,,,,,,
+"o","4",,"Now please input your bid: ",,"stdout","1693374570438",,,,,,,
+"o","4",,"Is there anyone else bidding [Y/N]? ",,"stdout","1693374572139",,,,,,,
+"o","4",,"Jill
+",,"stdout","1693374573846",,,,,,,
+"o","4",,"check_name: Jack, highest_bidder: Jill
+",,"stdout","1693374573846",,,,,,,
+"o","4",,"Jack
+",,"stdout","1693374573846",,,,,,,
+"o","4",,"check_name: Jill, highest_bidder: Jill
+",,"stdout","1693374573846",,,,,,,
+"o","4",,"Jill
+",,"stdout","1693374573846",,,,,,,
+"o","4",,"['Jill']
+",,"stdout","1693374573846",,,,,,,
+"o","4",,"Time for another silent auction [Y/N]? ",,"stdout","1693374573846",,,,,,,
